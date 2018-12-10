@@ -1,0 +1,69 @@
+.cabecera{
+	
+	display: flex;
+	flex-direction: center;
+	margin: 25px 20px 70px 75px;
+
+}
+
+.foto {
+	
+	display: flex;
+	align-items: center;
+	width: 130px;
+	height: 100px;
+	
+}
+.datos {
+	background-color: #AFEEEE;
+	display: flex;
+	flex-direction: center;
+	margin: 25px 20px 70px 75px;
+}
+.dato {
+	padding: 20px;
+	font-size: 18px;
+	font-family: 'Berkshire Swash';
+	.exp {
+
+	}
+}
+.bloque1 {
+	
+	display: flex;
+	flex-direction: row;
+	margin: 25px 20px 70px 75px;
+}
+.elemento {
+
+	display: flex;
+	flex-direction: column;
+	justify-content: space-evenly;
+	padding: 20px;
+	font-family: 'Berkshire Swash';
+}
+.bloque2 {
+	display: flex;
+	flex-direction: row;
+	margin: 25px 20px 70px 75px;
+}
+.exp {
+	display: flex;
+	flex-direction: column;
+	justify-content: space-evenly;
+	padding: 20px;
+	font-family: 'Berkshire Swash';
+}
+.otros {
+	display: flex;
+	flex-direction: row;
+	margin: 25px 20px 70px 75px;
+}
+.otro {
+	display: flex;
+	flex-direction: column;
+	justify-content: space-evenly;
+	padding: 20px;
+	font-family: 'Berkshire Swash';
+
+}	
